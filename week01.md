@@ -96,3 +96,9 @@ It is also useful for troubleshooting any configuration errors if the expected I
 In this lab, I learned how to prepare the GNS3 environment, organize the GitHub repository, and configure static IP addresses manually for network hosts. I understood the importance of editing the `/etc/network/interfaces` file correctly, especially removing the comment symbols (`#`) from the required lines and providing valid IP address and netmask values. This task also helped me understand how hosts in the same network communicate using proper addressing.
 
 While completing the work, I also faced some configuration issues, especially when the expected IPv4 address did not appear. From this, I learned that even a small mistake in the configuration file can prevent the network interface from being set properly. By checking the configuration again and verifying the results using IP checking commands, I was able to better understand the troubleshooting process. Overall, this lab improved my practical knowledge of basic network setup, IP addressing, and documentation of technical work using GitHub.
+
+## Project File
+
+This file contains the GNS3 project for Week 01. It includes the basic lab setup and initial network configuration used in the introductory GNS3 practice.
+
+[GNS3-Intro-week01.gns3project](files/GNS3-Intro-week01.gns3project)
