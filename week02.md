@@ -141,3 +141,8 @@ The result shows successful replies without packet loss, which confirms that the
 In this lab, I learned how to create a small network topology using one switch and four hosts in GNS3. I also learned how to assign static IP addresses manually by editing the `/etc/network/interfaces` file. This helped me understand how proper IP addressing allows multiple devices in the same subnet to communicate with each other.
 
 Another important part of this lab was testing connectivity with different `ping` commands. By using packet count and packet size options, I was able to observe how hosts respond under different test conditions. This improved my understanding of basic network testing and troubleshooting. Overall, this lab gave me practical experience in topology setup, static IP configuration, and communication testing in a simulated networking environment.
+
+
+The GNS3 project file used for this lab is attached below. This file contains the saved network topology and configuration setup for Week 02.
+
+[Setting-UP.gns3project](files/Setting-UP.gns3project)
